@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/DXPivotGrid_GroupFilter/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DXPivotGrid_GroupFilter/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/DXPivotGrid_GroupFilter/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXPivotGrid_GroupFilter/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/DXPivotGrid_GroupFilter/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXPivotGrid_GroupFilter/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to implement the group filter for a PivotGrid
